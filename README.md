@@ -26,8 +26,8 @@ The analysis combines time-series data and event based study to understand both 
   c. Computed average and median rolling correlations to summarize behavior
 4. Event Study
   a. Analyzed oil shock events:
-     -> March 2020 (COVID crash & oil war)
-     -> March 2022 (Russia–Ukraine crisis)
+     i. March 2020 (COVID crash & oil war)
+     ii. March 2022 (Russia–Ukraine crisis)
 
 ### Key Findings
 1. ONGC exhibits the highest positive correlation with crude oil prices, reflecting its position in the upstream oil sector
